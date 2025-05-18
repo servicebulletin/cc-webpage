@@ -31,6 +31,11 @@ function App() {
         on-the-ground experience in Vietnam.
         </p>
       </div>
+      <div>
+        <p>
+        Please <a href="mailto:enquiries@crawfordcorry.com">contact us</a> for enquiries or download our brochure.
+        </p>
+      </div>
     </>
   )
 }
