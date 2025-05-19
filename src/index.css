@@ -28,6 +28,17 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+
+  /* Background image */
+  background-image: url('./assets/lan-ha-bay.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  /* Optional: overlay effect for readability */
+  color: black;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
 }
 
 h1 {

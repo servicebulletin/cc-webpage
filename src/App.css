@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+html, body, #app, #app>div {
+  height: 100%
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.9); /* semi-transparent black */
+  color: white;
+  min-height: 100vh;
+  padding: 2rem;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+}
