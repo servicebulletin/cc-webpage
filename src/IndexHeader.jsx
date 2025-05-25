@@ -9,7 +9,7 @@ function IndexHeader() {
       alt="Crawford & Corry" 
       style={{ width: '100%', height: 'auto', display: 'block' }} 
     />
-    <h4>EMPLOYABLE | EDUCATIONAL | EXPERIENTIAL</h4>
+    <p>EMPLOYABLE | EDUCATIONAL | EXPERIENTIAL</p>
   </div>
   )
 }

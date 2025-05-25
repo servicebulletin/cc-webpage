@@ -1,23 +1,21 @@
 function IndexBody() {
 
   return (
-    <div>
-      <h3>
-        With deep expertise, unique access, and extensive resources, we specialise in 
-        designing bespoke, secure, and transformative professional placements and work 
-        experiences in Vietnam for young adults, available year-round, including summer 
-        and gap year programmes.
-      </h3>
+    <div className="index-body">
       <p>
-        Our programmes emphasise career development, cultural immersion, and personal 
-        enrichment, all curated to help each participant achieve their goals and fulfil 
-        their potential. Safety, security, and privacy are our utmost priorities, forming 
-        the cornerstone of our approach. Discretion is integral to everything we do, 
-        particularly as we work with students and young adults. In keeping with our 
-        commitment to exclusivity and trust, we maintain a deliberately minimal public 
-        presence and refrain from social media activity. Crawford & Corry was founded by 
-        two professionals with backgrounds at Eton and Oxford, combined with extensive 
-        on-the-ground experience in Vietnam.
+        We curate life-changing professional journeys in Vietnam that combine career 
+        development, cultural discovery, and personal growth. Whether you're embarking on 
+        a professional placement, gap year, or summer programme, our placements are 
+        tailored to your goals and interests.
+      </p>
+      <p>
+        Safety and privacy are our utmost priorities, particularly as we work with students 
+        and young adults. In keeping with our commitment to exclusivity and trust, we 
+        maintain a deliberately minimal public presence and refrain from social media activity. 
+      </p>
+      <p>
+        Crawford & Corry was founded by two professionals with backgrounds at Eton and Oxford, 
+        combined with extensive experience in Vietnam.
       </p>
     </div>
   )
