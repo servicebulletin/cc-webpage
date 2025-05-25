@@ -9,6 +9,9 @@ function App() {
 
   return (
     <div className="overlay">
+      <head>
+        <meta property="og:site_name" content="CC"></meta>
+      </head>
       <IndexHeader />
       <IndexBody />
       <IndexFooter />

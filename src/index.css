@@ -81,6 +81,7 @@ button:focus-visible {
 .index-header {
   min-width: 300px;
   width: 300px;
+  
 }
 
 @media (min-width: 900px) {
