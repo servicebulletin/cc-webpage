@@ -30,7 +30,7 @@ body {
   min-height: 100vh;
 
   /* Background image */
-  background-image: url('./assets/lan-ha-bay.jpg');
+  background-image: url('./assets/vietnam-temple.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -77,3 +77,23 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.index-header {
+  min-width: 300px;
+  width: 300px;
+}
+
+@media (min-width: 900px) {
+  .index-header {
+    width: 33.3333%;
+  }
+}
+
+
+   
+/* 
+.index-header {
+  width: 33.33vw;
+  max-width: 100%;
+  box-sizing: border-box;
+} */
