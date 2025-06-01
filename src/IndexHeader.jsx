@@ -5,8 +5,7 @@ function IndexHeader() {
   return (
   <div className="index-header">
     <img 
-      src="./src/assets/C&C_logo.png"
-      // src="src/assets/Crawford&Corry_logo.png" 
+      src="./src/assets/Crawford&Corry_logo.png" 
       alt="Crawford & Corry" 
       style={{ width: '100%', height: 'auto', display: 'block' }} 
     />
